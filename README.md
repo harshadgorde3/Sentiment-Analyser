@@ -23,9 +23,15 @@ Output
 This project has the following output
 
 Sentiment Score: 1.0%
+
 Sentiment Type: Negative%
+
 Very positive: 2.0%
+
 Positive: 12.0%
+
 Neutral: 25.0%
+
 Negative: 52.0%
+
 Very negative: 10.0%
